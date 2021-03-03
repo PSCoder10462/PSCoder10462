@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/code.gif" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Parv Sharma</h1>
 <h3 align="center">A passionate FULL STACK developer from India</h3>
 

@@ -28,4 +28,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PSCoder10462&show_icons=true&locale=en&layout=compact" alt="PSCoder10462" /></p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=PSCoder10462&theme=tokyonight)
+<p align="center">![Streak](https://github-readme-streak-stats.herokuapp.com/?user=PSCoder10462&theme=tokyonight)</p>
